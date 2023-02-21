@@ -2,8 +2,8 @@
 
 Summary: This 'mini-game' was part of a global optimization process where you have to spawn as much snowflakes as possible.
 
-Initial statement: At the begining of the program, it can handle about 5000 particules max.
-Final result: On the last version of the program it can handle more than 500k particles.
+Initial statement: At the begining, the program can handle about 5000 particules max.
+Final result: After several optimizations like object pooling (using unique ptr), avoid memory "jumps", removing useless code... the program can handle more than 500k particles (in release mode).
 
 Controls: 
 * Arrow keys to move the 'character'
