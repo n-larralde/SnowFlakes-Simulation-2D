@@ -3,7 +3,7 @@
 Summary: This was part of a global optimization process where you have to spawn as much snowflakes as possible.
 
 Initial statement: At the begining of the program, it can handle about 5000 particules max.
-Final result: On the last versio fo the program it can handle more than 500k particles.
+Final result: On the last version of the program it can handle more than 500k particles.
 
 Controls: 
 * Arrow keys to move the 'character'
